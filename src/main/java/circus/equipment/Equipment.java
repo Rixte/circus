@@ -1,4 +1,4 @@
-package circus;
+package circus.equipment;
 
 public abstract class Equipment {
     protected int purchasePrice;
